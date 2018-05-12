@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '32388'
     url: http://www.gutenberg.org/2009/agents/32388
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36616#Project-Gutenberg-4-July-1971---4-July-2011--Album
 gutenberg_issued: '2011-07-04'
 gutenberg_type: Text
 identifiers:
